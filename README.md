@@ -34,8 +34,7 @@ Check out my Data Science Portfolio(coming soon!) for notable projects.
 - 🔗 LinkedIn: [www.linkedin.com/in/eva-damonte]
 
 ---
-
-### Step 3: Populate Your Information
+## 💖 What I Add
 1. **Professional Bio**:
 I am a junior at the University of Notre Dame studing finance with a minor in computer digital technology and theology. I am an interested student who enjoys real life application and hands on learning. I am from Reno, Nevada (the biggest little city in the world) and I love the outdoors. Catch me skiing both in the mountains and on Lake Tahoe! I enjoy making data come to life and engaging in the visualization process of code. I enjoy taking data that is appealing and summarizing it in a way that is easy for others to stand as well as is accurate as possible. I look forward to creating fun and engaging projects this semester as I continue to grow and expand my skils in python and vs code. 
    
