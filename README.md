@@ -1,93 +1,49 @@
 # README.md
 Read me :)
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Eva Diana Damonte 👋
 
 Welcome to my GitHub profile! I’m a data science enthusiast with a passion for analyzing data and building impactful solutions. Check out my repositories and feel free to connect!
 
 ## 📚 About Me
-- 🔭 Currently working on [your current project or area of focus].
-- 🌱 I’m learning [mention any new skills or tools you're currently learning].
-- 👯 I’m looking to collaborate on [types of projects you're open to or interested in].
+- 🔭 Currently working on [Learning and Mastering Skills in Elements of Computing 2].
+- 🌱 I’m learning [how to code more effincetly and effectivly using tools like python and VS code].
+- 👯 I’m looking to collaborate on [food reviews as well as sports analytics].
 - 💬 Ask me about data science, Python, machine learning, or anything tech-related!
-- 📫 How to reach me: [your email or other contact info].
+- 📫 How to reach me: [edamont2@nd.edu].
+
+- ## Education 🎓
+- **Notre Dame Degree (coming in 2026) - Gordon-Conwell Theological Seminary
+- **High School Degree - North Central University
 
 ## 💼 Technical Skills
-- **Languages**: Python, R, SQL, [Other languages you know].
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Plotly, etc.
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn.
-- **Databases**: MySQL, PostgreSQL, MongoDB.
-- **Tools & Platforms**: GitHub, Docker, Jupyter Notebooks, AWS, Google Cloud.
-- **Machine Learning**: Supervised and Unsupervised Learning, Regression, Classification, Clustering, Deep Learning.
+- **Languages**: Python, R.
+- **Libraries & Frameworks**: Pandas, NumPy, Sea Born
+- **Data Visualization**: Matplotlib, Seaborn.
+- **Databases**: MySQL
+- **Tools & Platforms**: GitHub, Jupyter Notebooks
 
 ## 🌟 Projects
-Check out my [Data Science Portfolio](link-to-your-portfolio) for notable projects.
+Check out my [Data Science Portfolio](coming soon!) for notable projects.
 
-- [Project 1 Name](link-to-project): A brief description of what this project is about and the technologies you used.
-- [Project 2 Name](link-to-project): A brief description of this project and why it’s exciting.
-- [Project 3 Name](link-to-project): Summary of this project and its outcome.
-
+- [Project 1 Name](South Bend Coffee Shop Reviews): coming soon :) 
+- [Project 2 Name](Sports Analytics Project ): Comming Soon :)
+- [Project 3 Name](Dorm Data): Comming soon :)
 ## 📫 How to reach me
-- 📧 Email: [Your Email]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [edamont2@nd.edu]
+- 🐦 Instagram: [Eva_Damonte]
+- 🔗 LinkedIn: [www.linkedin.com/in/eva-damonte]
 
 ---
 
 ### Step 3: Populate Your Information
 1. **Professional Bio**:
-   - This should be a brief overview of who you are professionally. Mention your focus (e.g., Data Science, Machine Learning) and current interests. You can also mention any future learning goals.
+I am a junior at the University of Notre Dame studing finance with a minor in computer digital technology and theology. I am an interested student who enjoys real life application and hands on learning. I am from Reno, Nevada (the biggest little city in the world) and I love the outdoors. Catch me skiing both in the mountains and on Lake Tahoe! I enjoy making data come to life and engaging in the visualization process of code. I enjoy taking data that is appealing and summarizing it in a way that is easy for others to stand as well as is accurate as possible. I look forward to creating fun and engaging projects this semester as I continue to grow and expand my skils in python and vs code. 
    
 2. **Technical Skills**:
-   - List your skills (languages, tools, frameworks, etc.). Group similar skills together to keep it organized. You can use bullet points to make this easy to read.
-   
+   - Python
+   - R
+   - Leadership
+   - Teamwork
+   - FUN!
 3. **Projects**:
-   - Add links to any projects you’ve worked on. If you don’t have a portfolio set up yet, you can link to specific repos or projects you've done. Keep each project description concise but informative, highlighting technologies you used and outcomes or insights.
-
-4. **Markdown Formatting**:
-   - **Headers** (`#` for main headers, `##` for sub-headers).
-   - **Bold text** using `**bold**`.
-   - **Bullet points** using `-` or `*`.
-   - **Links** with `[Text](URL)`.
-
-### Step 4: Commit and Push Your Changes
-Once you’re happy with the content:
-- **Commit your changes**: Add a commit message like “Updated profile README with bio and skills.”
-- **Push your changes**: Save and push the changes to your GitHub repository.
-
-### Optional: Customize with Emojis
-GitHub supports emojis, so you can add some personality to your README by adding relevant emojis! For example:
-- 🎓 for education
-- 📊 for projects or data visualization
-- 🖥️ for programming or tech topics
-
-### Example GitHub README.md
-```markdown
-# Hi, I'm Jane Doe 👩‍💻
-
-Welcome to my GitHub profile! I’m a data scientist passionate about using data to drive decisions and build solutions. Check out my work below and feel free to connect!
-
-## 📚 About Me
-- 🔭 Currently working on building predictive models for sales forecasting.
-- 🌱 I’m learning deep learning and NLP.
-- 👯 I’m looking to collaborate on AI-driven data science projects.
-- 💬 Ask me about Python, machine learning, or data visualization!
-- 📫 How to reach me: jane.doe@email.com
-
-## 💼 Technical Skills
-- **Languages**: Python, R, SQL
-- **Libraries & Frameworks**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, Plotly
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms**: Git, Docker, Jupyter Notebooks, AWS, Google Cloud
-- **Machine Learning**: Supervised and Unsupervised Learning, Regression, Classification, Clustering, Deep Learning
-
-## 🌟 Projects
-Check out my [Data Science Portfolio](https://github.com/janedoe/portfolio).
-
-- [Sales Forecasting Model](https://github.com/janedoe/sales-forecasting): Built a predictive model for sales using time-series analysis and machine learning techniques.
-- [Customer Segmentation](https://github.com/janedoe/customer-segmentation): Developed clustering algorithms to identify customer segments for targeted marketing.
-- [NLP Text Classification](https://github.com/janedoe/nlp-classification): Built an NLP model to classify product reviews into categories using deep learning.
-
-## 📫 How to reach me
-- 📧 Email: jane.doe@email.com
-- 🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/janedoe)
+   - I am really excited to add my projects which will be coming soon!
