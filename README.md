@@ -5,15 +5,15 @@ Read me :)
 Welcome to my GitHub profile! I’m a data science enthusiast with a passion for analyzing data and building impactful solutions. Check out my repositories and feel free to connect!
 
 ## 📚 About Me
-- 🔭 Currently working on [Learning and Mastering Skills in Elements of Computing 2].
-- 🌱 I’m learning [how to code more effincetly and effectivly using tools like python and VS code].
-- 👯 I’m looking to collaborate on [food reviews as well as sports analytics].
+- 🔭 Currently working on Learning and Mastering Skills in Elements of Computing 2.
+- 🌱 I’m learning how to code more effincetly and effectivly using tools like python and VS code.
+- 👯 I’m looking to collaborate on food reviews as well as sports analytics.
 - 💬 Ask me about data science, Python, machine learning, or anything tech-related!
-- 📫 How to reach me: [edamont2@nd.edu].
+- 📫 How to reach me: edamont2@nd.edu
 
 - ## Education 🎓
-- **Notre Dame Degree (coming in 2026) - Gordon-Conwell Theological Seminary
-- **High School Degree - North Central University
+- **Notre Dame Degree  (coming in 2026) Notre Dame, IN
+- **High School Degree - Bishop Manogue Catholic High School Reno, NV 
 
 ## 💼 Technical Skills
 - **Languages**: Python, R.
@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I’m a data science enthusiast with a passion for
 - **Tools & Platforms**: GitHub, Jupyter Notebooks
 
 ## 🌟 Projects
-Check out my [Data Science Portfolio](coming soon!) for notable projects.
+Check out my Data Science Portfolio(coming soon!) for notable projects.
 
-- [Project 1 Name](South Bend Coffee Shop Reviews): coming soon :) 
-- [Project 2 Name](Sports Analytics Project ): Comming Soon :)
-- [Project 3 Name](Dorm Data): Comming soon :)
+- Cool Coffee - (South Bend Coffee Shop Reviews): coming soon :) 
+- Womens and Male sporting event Attendance- (Sports Analytics Project ): Comming Soon :)
+- Who really follwos periatles - (Dorm Data): Comming soon :)
 ## 📫 How to reach me
 - 📧 Email: [edamont2@nd.edu]
 - 🐦 Instagram: [Eva_Damonte]
