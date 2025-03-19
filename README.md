@@ -1,5 +1,4 @@
-# README.md
-Read me :)
+
 # Hi, I'm Eva Diana Damonte 👋
 
 Welcome to my GitHub profile! I’m a data science enthusiast with a passion for analyzing data and building impactful solutions. Check out my repositories and feel free to connect!
