@@ -34,6 +34,8 @@ Check out my Data Science Portfolio(coming soon!) for notable projects.
 Link to tidy data readme: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/README.md
 
 Link to tidy data notebook: https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/Data_Tidy_Project.ipynb 
+
+![Medal by Sport](https://github.com/evadamonte/DAMONTE-Python-Portfolio/blob/main/TidyData-Project-main/number_of_medals.png)
 ## 📫 How to reach me
 - 📧 Email: [edamont2@nd.edu]
 - 🐦 Instagram: [Eva_Damonte]
